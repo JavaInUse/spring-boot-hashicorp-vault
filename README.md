@@ -4,6 +4,3 @@ Using vault we will be retrieving the credentials from the vault key/value store
 In this tutorial we will about why to use Hashicorp with Spring Cloud.
 
 Complete explanation can be found at - https://www.javainuse.com/spring/cloud-vault
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
